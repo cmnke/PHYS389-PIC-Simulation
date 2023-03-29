@@ -1,0 +1,6 @@
+numpy
+matplotlib
+timeit
+mpl_toolkits.mplot3d 
+matplotlib.animation
+math
